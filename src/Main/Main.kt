@@ -1,6 +1,8 @@
 package Main
 
 fun main(){
-    val saludo:String = "Hola Mundo!"
-    println(saludo)
+
+
+    val saludo: String = "Hola mundo!!"
+    print(saludo)
 }
