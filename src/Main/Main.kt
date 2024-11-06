@@ -2,5 +2,6 @@ package Main
 
 fun main(){
     val saludo:String = "Hola Mundo!"
-    println(saludo)
+    val saludoCordial =  saludo +" como estas?"
+    println(saludoCordial)
 }
